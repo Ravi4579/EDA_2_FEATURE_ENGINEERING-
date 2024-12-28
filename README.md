@@ -64,19 +64,6 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
-### Steps to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd your-repo-name
-   ```
-3. Run the notebook or Python script containing the implementation.
-
----
-
 ## Results and Discussion
 - Scaling, encoding, and feature engineering significantly improved data quality and model interpretability.
 - The Isolation Forest removed key outliers, enhancing the robustness of downstream models.
